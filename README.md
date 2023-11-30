@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kellykha
+- 👋 Hi, I’m @kkha
 - 👀 I’m interested in traveling and foods.
 - 🌱 I’m currently learning SQL.
   
